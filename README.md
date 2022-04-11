@@ -15,7 +15,7 @@ In order to concrete the bird sound recognize, we use python package such as lib
 Also we had built some useful tool to make the sound proccess easier,
 you can use them not only to transform our bird audio but also use other .wav audio to train other kind of sound recognition model.<br />
 
-Last but not last, we provide differience kind of code for notebook user and pycharm user. In the folder bird-sound-Tyler, there are .py file for pycharm or vsCode user, and in the colab folder are .ipynb file for notebook user, youcan run them on goolge colab or jupyter notebook.
+Last but not last, we provide differience kind of code for notebook user and pycharm user. In the folder bird-sound-Tyler, there are .py file for pycharm or vsCode user, and in the colab folder are .ipynb file for notebook user, you can run them on goolge colab or jupyter notebook.
 
 
 ## Install yuor package
